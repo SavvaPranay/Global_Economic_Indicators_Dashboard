@@ -1,1 +1,1 @@
-# Global_Economic_Indicators_Dashboard
+# Global_Economic_Indicators_Analysis
